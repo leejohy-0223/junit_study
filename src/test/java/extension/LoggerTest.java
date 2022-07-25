@@ -18,4 +18,6 @@ class LoggerTest implements LoggerAware {
     void test_di() {
         logger.error("di is success!");
     }
+
+
 }
